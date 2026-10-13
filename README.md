@@ -30,3 +30,6 @@ Project menerapkan:
 ```bash
 git clone <URL-REPOSITORY>
 cd TugasWeb-P9-LaravelSetup
+
+## Screenshot
+![Laravel Welcome](screenshot/Welcome.png)
